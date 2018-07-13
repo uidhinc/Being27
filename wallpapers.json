@@ -2,16 +2,16 @@
    "Categories": 
         [
             {
-                "name": "Style"
+                "name": "style"
             },
             {
-                "name": "Hot"
+                "name": "hot"
             },
            {
-                "name": "Fashion"
+                "name": "fashion"
             },
            {
-                "name": "Magical"
+                "name": "magical"
             }
         ],
    "Wallpapers": [
